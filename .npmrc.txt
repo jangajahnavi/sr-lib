@@ -1,1 +1,3 @@
-@jangajahnavi:registry=https://npm.pkg.github.com
+registry=https://registry.npmjs.org/
+@jangajahanvi:registry=https://npm.pkg.github.com/
+//npm.pkg.github.com/:_authToken=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
