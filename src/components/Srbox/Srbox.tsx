@@ -17,7 +17,7 @@ const SearchBox = (props: { placeholder: string | undefined; handleChange: React
              endAdornment: (
           
           <IconButton>
-            <SearchIcon onClick={props.onClick}/>
+            
           </IconButton>
          
             )
